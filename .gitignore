@@ -1,0 +1,8 @@
+# Ignorer tous les fichiers .class dans le dossier bin
+*/bin/
+
+# Ignorer les dossiers .vscode
+*.vscode
+
+# Ignorer les fichiers .sh
+*.sh
